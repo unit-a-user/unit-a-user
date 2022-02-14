@@ -1,6 +1,6 @@
 # Welcome to my profile...
 
-## Ссылки коллектива
+## Ссылки/Links коллектива
 
   - 👑 [GitHub, документация](https://github.com/helixd2s/about)
   - 🥀 [GitHub, идеология](https://github.com/helixd2s/core) (резерв)
@@ -8,12 +8,14 @@
   - 🥀 [VK паблик](https://vk.com/helixd2s)
   - 🥀 [Наш сайт](http://about.helixd2s.su/) (там просто редирект пока что)
 
+
 ## Ссылки/Links личности
 
-  - 🥀 https://github.com/unit-a-user/unit-a-user (Github profile)
+  - 🥀 https://github.com/unit-a-user (Github profile)
   - 🥀 https://github.com/helixd2s/unit-a (reserved)
   - 🥀 https://vk.com/unit_a_user (VK profile)
   - 🥀 http://unit-a.helixd2s.su/ (website)
+
 
 ## Shared
 
@@ -32,6 +34,7 @@
 
   Можете писать мне сюда: 👑 `unit-a@helixd2s.ru` 👑 (пока что).<br/>
   Планируемый домен для почты на Yandex: `unit-a@helixd2s-mail.ru` либо `unit-a@helixd2s-ya.ru` (с `6 августа, 2022 года`).<br/>
+
 
 ## Signs (значки), их возможное значение...
 
