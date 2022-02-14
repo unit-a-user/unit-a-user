@@ -17,7 +17,7 @@
   - 🥀 http://unit-a.helixd2s.su/ (website)
 
 
-## Shared
+## Общее/Shared
 
   - ⚠️ [Моя личность, психология и психика](https://github.com/helixd2s/about/blob/main/docs/unit-a/personal.md)
   - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s/about/blob/main/docs/unit-a/core.md)
