@@ -45,9 +45,6 @@
   - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/interview.md)
   - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/core.md)
 
-  Пока можете писать мне сюда: 👑 `unit-a@helixd2s.ru` 👑.<br/>
-  Планируемый домен для почты на Yandex: `unit-a@helixd2s-mail.ru` либо `unit-a@helixd2s-ya.ru`.<br/>
-
 ## Ссылки/Links коллектива
 
   - 👑 [GitHub, документация](https://github.com/helixd2s/about)
