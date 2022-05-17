@@ -34,20 +34,19 @@
 
 ## Ссылки/Links личности
 
-  - 🥀 https://github.com/unit-a-user (Github profile)
-  - 🥀 https://github.com/helixd2s/unit-a (reserved)
-  - 🥀 https://vk.com/unit_a_user (VK profile)
+  - 🥀 https://github.com/helixd2s/unit-a (резерв)
+  - 🥀 https://github.com/unit-a-user (профиль)
+  - 🥀 https://vk.com/unit_a_user (VK)
   - 🥀 http://unit-a.helixd2s.su/ (website)
 
-## Общее/Shared
+  Обо мне и моих измышлениях…
 
-  - ⚠️ [Моя личность, психология и психика](docs/unit-a/personal.md) 
-  - ⚠️ [Мои ответы на некоторые вопросы](docs/unit-a/interview.md) 
-  - ⚠️ [Моё мировоззрение и концепция](docs/unit-a/core.md)
-  - 💡 [Идеи законов и прав в нашей стране](https://github.com/helixd2s/about/blob/main/docs/government/russian-zakon.md)
+  - ⚠️ [Моя личность, психология и психика](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/personal.md)
+  - ⚠️ [Мои ответы на некоторые вопросы](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/interview.md)
+  - ⚠️ [Моё мировоззрение и концепция](https://github.com/helixd2s/unit-a/blob/main/docs/unit-a/core.md)
 
-  Можете писать мне сюда: 👑 `unit-a@helixd2s.ru` 👑 (пока что).<br/>
-  Планируемый домен для почты на Yandex: `unit-a@helixd2s-mail.ru` либо `unit-a@helixd2s-ya.ru` (с `6 августа, 2022 года`).<br/>
+  Пока можете писать мне сюда: 👑 `unit-a@helixd2s.ru` 👑.<br/>
+  Планируемый домен для почты на Yandex: `unit-a@helixd2s-mail.ru` либо `unit-a@helixd2s-ya.ru`.<br/>
 
 ## Ссылки/Links коллектива
 
