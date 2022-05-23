@@ -1,6 +1,6 @@
 # Unit-A 
 
-### 🥀 [unit-a](https://github.com/helixd2s/unit-a), my story and problems
+### 🥀 [Unit-A](https://github.com/helixd2s/unit-a), my story and problems
 
   - 🥀 https://github.com/helixd2s/unit-a (резерв)
   - 🥀 https://github.com/unit-a-user (профиль)
