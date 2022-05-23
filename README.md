@@ -2,8 +2,6 @@
 
 ### 🥀 [Unit-A](https://github.com/helixd2s/unit-a), my story and problems
 
-  - 🥀 https://github.com/helixd2s/unit-a (резерв)
-  - 🥀 https://github.com/unit-a-user (профиль)
   - 🥀 https://vk.com/unit_a_user (VK)
   - 🥀 http://unit-a.helixd2s.su/ (website)
 
