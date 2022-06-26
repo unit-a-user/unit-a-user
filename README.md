@@ -1,5 +1,8 @@
 # Unit-A 
 
+## 💬 [Обсуждения/Discussions](https://github.com/helixd2s/about/discussions) 💬
+## 🐞 [Баг-Репорты/Bug-Tracker](https://github.com/helixd2s/about/issues) 🐞
+
 ### 🥀 [Unit-A](https://github.com/helixd2s/unit-a), my story and problems
 
   - 🥀 https://vk.com/unit_a_user (VK)
